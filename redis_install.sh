@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /home
 cd /home/redis-5.0.9
 
 yum -y install gcc make
