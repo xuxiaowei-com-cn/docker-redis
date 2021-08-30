@@ -1,7 +1,6 @@
 #!/bin/bash
 
 cd /home
-tar -zxvf redis-5.0.9.tar.gz
 cd /home/redis-5.0.9
 
 yum -y install gcc make
